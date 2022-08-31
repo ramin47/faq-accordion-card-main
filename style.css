@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #8965E9;
+}
+
+.container {
+    width: 750px;
+    margin: auto;
+    margin-top: 140px;
+    background-color: white;
+    display: flex;
+    border-radius: 15px;
+}
+
+.img-one { 
+    width: 300px;
+    margin-top: 50px;
+}
+
+.img-two {
+    width: 270px;
+    margin-top: -600px;
+    margin-left: -100px;
+    margin-bottom: 60px;
+}
+
+.img-email {
+    margin-left: -380px;
+    margin-bottom: 60px;
+
+}
+
+.right {
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+
+p, h5 {
+    margin-bottom: -17px;
+}
+
+.one-arrow {
+    margin-left: 255px;
+}
+
+.two-arrow {
+    margin-left: 255px;
+}
+
+.three-arrow {
+    margin-left: 195px;
+}
+
+.four-arrow {
+    margin-left: 196px;
+}
+
+.five-arrow {
+    margin-left: 230px;
+}
+
+#parag-f:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+#parag-f{
+    cursor: pointer;
+}
+
+
+
+
+#parag-s:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+#parag-s{
+    cursor: pointer;
+}
+
+
+
+
+#parag-t:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+#parag-t {
+    cursor: pointer;
+}
+
+
+
+
+#parag-fo:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+#parag-fo {
+    cursor: pointer;
+}
+
+
+
+
+#parag-fi:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+#parag-fi {
+    cursor: pointer;
+}
+
+@media (max-width: 700px) {
+    .container {
+        width: 450px;
+        display: grid;
+        grid-template-columns: auto;
+        margin-bottom: 40px;
+        height: 800px;
+        margin-top: 30px;
+    }
+
+    .img-one { 
+        width: 100px;
+        margin-top: 80px;
+    }
+    
+    .img-two {
+        width: 270px;
+        margin-top: 20;
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+    
+    .img-email {
+        margin-left: 0;
+        margin-bottom: 0;
+    
+    }
+
+    .right {
+        text-align: center;
+        margin: auto;
+    }
+
+    .left {
+        margin-left: 80px;
+
+    }
+}
+
+
+
+
+
+
