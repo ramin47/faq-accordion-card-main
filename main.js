@@ -9,31 +9,31 @@ let main = document.getElementById("div-main")
 
 function addF() {
     divF.innerHTML = `<div id="div-main"><h5>How many team members can I invite?</h5>
-    <img class="one-arrow" src="file:///E:/projects/faq-accordion-card-main/images/icon-arrow-down.svg" alt="Arrow image">
+    <img class="one-arrow" src="/images/icon-arrow-down.svg" alt="Arrow image">
     <p class="parag-f">You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.</p><br><hr></div>`
 }
 
 function addS() {
     divS.innerHTML = `<div id="div-main"><h5>How many team members can I invite?</h5>
-    <img class="one-arrow" src="file:///E:/projects/faq-accordion-card-main/images/icon-arrow-down.svg" alt="Arrow image">
+    <img class="one-arrow" src="/images/icon-arrow-down.svg" alt="Arrow image">
     <p class="parag-f">You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.</p><br><hr></div>`
 }
 
 function addT() {
     divT.innerHTML = `<div id="div-main"><h5>How many team members can I invite?</h5>
-    <img class="one-arrow" src="file:///E:/projects/faq-accordion-card-main/images/icon-arrow-down.svg" alt="Arrow image">
+    <img class="one-arrow" src="/images/icon-arrow-down.svg" alt="Arrow image">
     <p class="parag-f">You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.</p><br><hr></div>`
 }
 
 function addFO() {
     divFo.innerHTML = `<div id="div-main"><h5>How many team members can I invite?</h5>
-    <img class="one-arrow" src="file:///E:/projects/faq-accordion-card-main/images/icon-arrow-down.svg" alt="Arrow image">
+    <img class="one-arrow" src="/images/icon-arrow-down.svg" alt="Arrow image">
     <p class="parag-f">You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.</p><br><hr></div>`
 }
 
 function addFI() {
     divFi.innerHTML = `<div id="div-main"><h5>How many team members can I invite?</h5>
-    <img class="one-arrow" src="file:///E:/projects/faq-accordion-card-main/images/icon-arrow-down.svg" alt="Arrow image">
+    <img class="one-arrow" src="/images/icon-arrow-down.svg" alt="Arrow image">
     <p class="parag-f">You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan.</p><br><hr></div>`
 }
 
